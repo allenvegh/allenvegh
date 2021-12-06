@@ -2,7 +2,23 @@ I'm a high-energy software developer with a talent for full stack web developmen
 
 I have a solid understanding of software development life cycle and it’s methodologies such as waterfall, Agile-Scrum, unit testing, cloud server hosting, Restful APIs, and using git for version handling. 
 
-My background includes over 10 years of programming experience with various different languages and technologies. I have an adept ability to take high level concepts and make them easily understandable for general audiences. 
+My background includes over 10 years of programming experience with various different languages and technologies. I have an adept ability to take high level concepts and make them easily understandable for general audiences.
+
+A few technologies that I like to work with:
+- Front-end development
+ • React.js, Vue.js, Next.js, Nuxt.js, Gatsby.js
+ • Redux, Flux, Mobx, Vuex, GraphQL
+ • Bootstrap, Tailwind CSS, Material UI, Vuetify
+ • Jest, Enzyme, Cypress, React Testing Library
+- Back-end development
+ • Node.js, Express.js, Django, Ruby on Rails, Laravel
+ • Mocha, Chai, Pytest, Rspec
+- Mobile development
+ • React Native, Ionic, Flutter
+ • Swift, Objective C
+- Database
+ • Relational database: PostgreSQL, MySQL, SQLite
+ • NoSQL database: MongoDB, DynamoDB, Firebase Realtime Database, Firestore
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
