@@ -1,5 +1,3 @@
-<h1 align="center">Hi!</h1>
-
 I'm a high-energy software developer with a talent for full stack web development and a natural understanding of user interface design. I have a strong entrepreneurial spirit and have helped companies both large and small maintain their online presence for more than a decade.  My work has helped several businesses digitize and grow revenues over the years.
 
 I have a solid understanding of software development life cycle and it’s methodologies such as waterfall, Agile-Scrum, unit testing, cloud server hosting, Restful APIs, and using git for version handling. 
